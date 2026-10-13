@@ -1,0 +1,6 @@
+@direccionApi = http://localhost:5279
+
+GET {{direccionApi}}/api/health
+Accept: application/json
+
+###

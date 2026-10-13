@@ -1,0 +1,14 @@
+# Archivos generados al compilar .NET
+**/bin/
+**/obj/
+
+# Configuración local del editor y registros
+.vs/
+*.user
+*.suo
+*.log
+
+# Credenciales y configuración privada local
+.env
+.env.*
+!.env.example
